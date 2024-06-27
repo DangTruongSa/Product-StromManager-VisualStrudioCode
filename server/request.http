@@ -1,0 +1,113 @@
+GET http://localhost:3001/user 
+
+###
+POST http://localhost:3001/user
+Content-Type: application/json
+
+
+{
+    "fullname":"abc2",
+    "email":"abc@1234",
+    "password":"0101014",
+    "phone":"012341234",
+    "address":"HCM"
+}
+###
+
+POST http://localhost:3001/user/login
+Content-Type: application/json
+
+
+{
+    "email":"abc@1234",
+    "password":"0101014"
+}
+#####
+
+GET http://localhost:3001/user
+Content-Type: application/json
+
+###
+
+GET http://localhost:3001/user/65ebb426ac5c53bc0d31de56
+Content-Type: application/json
+
+###
+
+PUT http://localhost:3001/user/65ebb426ac5c53bc0d31de56
+Content-Type: application/json
+
+{
+    "fullname":"abc2222",
+    "email":"abc@123",
+    "password":"010101",
+    "phone":"012341234",
+    "address":"HCM"
+}
+
+###
+
+DELETE  http://localhost:3001/user/65ebb426ac5c53bc0d31de56
+Content-Type: application/json
+
+###
+
+POST http://localhost:3001/distributor
+Content-Type: application/json
+
+
+{
+    "name":"Cong ty trai a cay"
+}
+
+###
+
+GET http://localhost:3001/distributor/65f24e7dbe3bfa6b206fb875
+Content-Type: application/json
+
+
+###
+POST http://localhost:3001/fruit
+Content-Type: application/json
+
+
+{
+    "name":"nhot chua",
+    "quantity":1,
+    "price":20000,
+    "status":1,
+    "image":["https://th.bing.com/th/id/OIP.5VB0xuHgm2ebO6UpvWaMDwHaD3?rs=1&pid=ImgDetMain"],
+    "description":"ngon",
+    "id_distributor": "65f24e7dbe3bfa6b206fb875"
+
+}
+###
+GET http://localhost:3001/fruit
+Content-Type: application/json
+
+###
+GET http://localhost:3001/distributor
+Content-Type: application/json
+
+###
+
+
+DELETE  http://localhost:3001/fruit/65f4f3d4fc55487a98316731
+Content-Type: application/json
+
+###
+
+PUT http://localhost:3001/fruit/65f253aa57110bf2f68366f0
+Content-Type: application/json
+
+
+{
+    "name":"tao tau",
+    "quantity":1,
+    "price":20000,
+    "status":1,
+    "image":["https://th.bing.com/th/id/OIP.5VB0xuHgm2ebO6UpvWaMDwHaD3?rs=1&pid=ImgDetMain"],
+    "description":"ngon",
+    "id_distributor": "65f24e7dbe3bfa6b206fb875"
+
+}
