@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "65ef9d984e1a4f58fcba94d9"
+  },
+  "name": "Cong ty a",
+  "createdAt": {
+    "$date": "2024-03-12T00:11:04.779Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-12T00:11:04.779Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f25c821a73065eb998d124"
+  },
+  "name": "Cong ty trai a cay",
+  "createdAt": {
+    "$date": "2024-03-14T02:10:10.269Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-14T02:10:10.269Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66076d13dbdcab8807f033f7"
+  },
+  "name": "Company",
+  "createdAt": {
+    "$date": "2024-03-30T01:38:27.999Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-30T01:45:28.781Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66100aa9c58ff544579f2160"
+  },
+  "name": "TNHH 11",
+  "createdAt": {
+    "$date": "2024-04-05T14:28:57.096Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-05T14:28:57.096Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "65f4eab87da6879ae89949ad"
+  },
+  "name": "rffbfb",
+  "quantity": 0,
+  "price": 0,
+  "status": 0,
+  "image": [
+    "http://localhost:3001/uploads/image-1712335440872logo.jpg"
+  ],
+  "description": "bnb",
+  "id_distributor": {
+    "$oid": "65f25c821a73065eb998d124"
+  },
+  "createdAt": {
+    "$date": "2024-03-16T00:41:28.607Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-05T16:44:00.882Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660b663c88106b6d70569032"
+  },
+  "name": "tao do",
+  "price": 20,
+  "status": 2,
+  "image": [
+    "http://localhost:3001/uploads/image-1712023100143craiyon_235857_Foggy_Field.png"
+  ],
+  "description": "ngon",
+  "id_distributor": {
+    "$oid": "65ef9d984e1a4f58fcba94d9"
+  },
+  "createdAt": {
+    "$date": "2024-04-02T01:58:20.151Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-02T01:58:20.151Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660df3852719a5ab663e2320"
+  },
+  "name": "tao do mi",
+  "price": 20,
+  "status": 2,
+  "image": [
+    "http://localhost:3001/uploads/image-1712190341588craiyon_235857_Foggy_Field.png"
+  ],
+  "description": "ngon",
+  "id_distributor": {
+    "$oid": "65ef9d984e1a4f58fcba94d9"
+  },
+  "createdAt": {
+    "$date": "2024-04-04T00:25:41.949Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-04T00:25:41.949Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66101a39faec8feb74f27a1d"
+  },
+  "name": "comi",
+  "price": 3,
+  "status": 3,
+  "image": [
+    "http://localhost:3001/uploads/image-1712331321520logo.jpg"
+  ],
+  "description": "ok",
+  "id_distributor": {
+    "$oid": "66100aa9c58ff544579f2160"
+  },
+  "createdAt": {
+    "$date": "2024-04-05T15:35:21.527Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-05T15:35:21.527Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66101a908bd8d1777350edac"
+  },
+  "name": "dasd",
+  "quantity": 3,
+  "price": 431,
+  "status": 1234,
+  "image": [
+    "http://localhost:3001/uploads/image-1712335199907logo.jpg"
+  ],
+  "description": "sd",
+  "id_distributor": {
+    "$oid": "66076d13dbdcab8807f033f7"
+  },
+  "createdAt": {
+    "$date": "2024-04-05T15:36:48.631Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-05T16:39:59.914Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6610a0f8ed6791ba7001f2a0"
+  },
+  "name": "âfsf",
+  "quantity": 0,
+  "price": 0,
+  "status": 0,
+  "image": [
+    "http://localhost:3001/uploads/image-1712365816212OIP (1)_preview_rev_1.png"
+  ],
+  "description": "ok",
+  "id_distributor": {
+    "$oid": "66100aa9c58ff544579f2160"
+  },
+  "createdAt": {
+    "$date": "2024-04-06T01:10:16.227Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-06T01:10:16.227Z"
+  },
+  "__v": 0
+}]

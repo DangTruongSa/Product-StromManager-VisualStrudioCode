@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "65efacfd58aa2905114eb25a"
+  },
+  "fullname": "abc2",
+  "email": "abc@1234",
+  "password": "$2a$10$3xFc0IUU4WZJkfoygx9Yf.tiT3SFpIZIwVi3cXNFbVaigbBUyOAHm",
+  "phone": "012341234",
+  "address": "HCM2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661034cac1ca4929d5e3c75e"
+  },
+  "fullname": "sa",
+  "email": "abc@123",
+  "password": "$2a$10$VPTV7xn1AAH85t9t9S9ntOGcIHqDzi8I72EiSDZ.youcVuAhU3KXu",
+  "phone": "11111",
+  "address": "hcm",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66104182026a6ed5f7ee47fd"
+  },
+  "fullname": "sa",
+  "email": "abc@1234",
+  "password": "$2a$10$orJNGkwYXOlsP/jPkE/mMuPIWyKI58vC7TUIDsOx85AgFTORlnw7u",
+  "phone": "11111",
+  "address": "hcm",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661041ea026a6ed5f7ee4800"
+  },
+  "fullname": "s1a",
+  "email": "sa@123",
+  "password": "$2a$10$0VjUo.Nh1SMZUmgFppXTQeeINxbjvsTbNOBV7uk13ufNOgYQTkYhi",
+  "phone": "1010101",
+  "address": "hcm",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66109d09ed6791ba7001f27c"
+  },
+  "fullname": "DangTruongSa",
+  "email": "sa1@123",
+  "password": "$2a$10$HQj3p/iYwkm75MlwDgFqJeBvGhuhWsQFwO8HXTXWmeG.E/aA8ViIG",
+  "phone": "09099111",
+  "address": "hcm",
+  "__v": 0
+}]
